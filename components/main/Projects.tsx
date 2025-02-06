@@ -12,19 +12,22 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/VoidBoosting.jpg"
+          title="VoidBoosting"
+          description="VoidBoosting es un proyecto full stack donde se implementan tecnologias como HTML, CSS, Javascript, PHP y MySQL."
+          href="https://github.com/AlexRosa16/Voidboosting-Updated"
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/portfolio.png"
+          title="Portfolio Modern Next.js"
+          description="Mi Portfolio es un proyecto donde implemento tecnologias como React, TypeScript, Next.Js."
+          href="https://portfolio-2025-eight-taupe.vercel.app"
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/earth.png"
+          title="Model 3D Earth"
+          description="Earth es un pequeño proyecto donde implemento un modelo 3D de nuestro planeta tierra funcional e interactuable."
+          href="https://github.com/AlexRosa16/EarthModel3D"
         />
       </div>
     </div>

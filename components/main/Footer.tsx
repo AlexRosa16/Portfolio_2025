@@ -84,7 +84,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="mb-[20px] text-[15px] text-center">
+        <div className="mt-[40px] mb-[20px]text-[15px] text-center">
           &copy; Alex Rosa Garcia 2025 Inc.
         </div>
       </div>
