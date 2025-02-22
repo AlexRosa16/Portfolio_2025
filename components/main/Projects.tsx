@@ -24,10 +24,10 @@ const Projects = () => {
           href="https://portfolio-2025-eight-taupe.vercel.app"
         />
         <ProjectCard
-          src="/earth.png"
-          title="Model 3D Earth"
-          description="Earth es un pequeño proyecto donde implemento un modelo 3D de nuestro planeta tierra funcional e interactuable."
-          href="https://github.com/AlexRosa16/EarthModel3D"
+          src="/teslaclon.png"
+          title="Tesla Clon"
+          description="Proyecto personal replicando la web de Tesla con React, TypeScript , Next.Js. y Tailwind css."
+          href="https://tesla-clon-alex-rosa.vercel.app"
         />
       </div>
     </div>
