@@ -24,7 +24,7 @@ const Projects = () => {
           href="https://portfolio-2025-eight-taupe.vercel.app"
         />
         <ProjectCard
-          src="/teslaclon.png"
+          src="/teslaclon.PNG"
           title="Tesla Clon"
           description="Proyecto personal replicando la web de Tesla con React, TypeScript , Next.Js. y Tailwind css."
           href="https://tesla-clon-alex-rosa.vercel.app"
